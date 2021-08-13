@@ -8,7 +8,7 @@
 [![Aoi.js Version](https://img.shields.io/npm/v/aoi.js.svg?maxAge=3600)](https://www.npmjs.com/package/aoi.js)
 
 ## About 
-**Hatsune Miku is a Multipurpose Discord Bot which has 98% Uptime. The bot has Setup, Fun, and Music Commands in it for full refference of the commands check below** <br>
+**Hatsune Miku is a Multipurpose Discord Bot which has Good Uptime. The bot has Setup, Fun, and Music Commands in it for full refference of the commands check below** <br>
 </br> 
 
 ## Wikis
