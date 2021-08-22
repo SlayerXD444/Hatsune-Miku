@@ -32,6 +32,6 @@ Miku is designed to be fast and easy to use.
 
 
 ## About Developer
-It's me I'm Slayer🍷#0069 (505942662365577216), and I've been moderating Discord servers from 1year. That's all i hate talking about myself.
+It's me I'm Slayer🍷#0798 (505942662365577216), and I've been moderating Discord servers from 1year. That's all i hate talking about myself.
 
 Peace ✌️ Thank you!
