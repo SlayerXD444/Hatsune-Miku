@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://dsc.gg/hatsunemiku">
+<a href="https://discord.com/oauth2/authorize?client_id=847501592080941066&scope=bot&permissions=5871889623">
 Hatsune Miku
 </h1>
 <br />
