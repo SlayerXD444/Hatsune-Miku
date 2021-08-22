@@ -15,6 +15,16 @@ Hatsune Miku
 **Hatsune Miku is a Multipurpose Discord Bot which has Good Uptime. The bot has Setup, Fun, and Music Commands in it for full refference of the commands check below** <br>
 </br> 
 
+## Hatsune Miku: Multi-Purpose Bot
+
+Hatsune Miku is a bot designed to keep your server safe and your Server organized. 
+It Has Music, Fun and Utility commands for your Server.
+Miku is designed to be fast and easy to use.
+
+## Features
+Hatsune Miku has High Quality Music and 24/7 On Voice Channel Option. And it also has Several Roleplay commands in Fun Category and Some useful Commands in Utility Category.
+
+
 ## Wikis
 ### [**Hatsune Miku Wiki!**](https://github.com/SlayerxD444/Hatsune-Miku/wiki/Hatsune-Miku)
 ### [**ℹ️About Hatsune Miku**](https://github.com/SlayerxD444/Hatsune-Miku/wiki/%E2%84%B9%EF%B8%8FAbout-Hatsune-Miku)
@@ -22,3 +32,9 @@ Hatsune Miku
 ### [**🛠️Setup**](https://github.com/SlayerxD444/Hatsune-Miku/wiki/%F0%9F%9B%A0%EF%B8%8FSetup)
 ### [**😂Fun**](https://github.com/SlayerxD444/Hatsune-Miku/wiki/%F0%9F%98%82Fun)
 ### [**🎶Music**](https://github.com/SlayerxD444/Hatsune-Miku/wiki/%F0%9F%8E%B6Music)
+
+
+## About Developer
+It's me I'm Slayer🍷#0069 (505942662365577216), and I've been moderating Discord servers from 1year. That's all i hate talking about myself.
+
+Peace ✌️ Thank you!
