@@ -21,9 +21,6 @@ Hatsune Miku is a bot designed to keep your server safe and your Server organize
 It Has Music, Fun and Utility commands for your Server.
 Miku is designed to be fast and easy to use.
 
-## Features
-Hatsune Miku has High Quality Music and 24/7 On Voice Channel Option. And it also has Several Roleplay commands in Fun Category and Some useful Commands in Utility Category.
-
 
 ## Wikis
 ### [**Hatsune Miku Wiki!**](https://github.com/SlayerxD444/Hatsune-Miku/wiki/Hatsune-Miku)
