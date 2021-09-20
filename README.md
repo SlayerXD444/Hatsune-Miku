@@ -29,6 +29,7 @@ Miku is designed to be fast and easy to use.
 ### [**🛠️Setup**](https://github.com/SlayerxD444/Hatsune-Miku/wiki/%F0%9F%9B%A0%EF%B8%8FSetup)
 ### [**😂Fun**](https://github.com/SlayerxD444/Hatsune-Miku/wiki/%F0%9F%98%82Fun)
 ### [**🎶Music**](https://github.com/SlayerxD444/Hatsune-Miku/wiki/%F0%9F%8E%B6Music)
+### [**🔧Utility**](https://github.com/SlayerxD444/Hatsune-Miku/wiki/%F0%9F%94%A7-Utility)
 
 
 ## About Developer
