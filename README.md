@@ -1,15 +1,11 @@
 <p>
-    <a href="https://discord.gg/A7ARJgK9zH"><img src="https://media.discordapp.net/attachments/869258357926678618/889422475820159006/Adobe_Post_20210920_1337050.9200920988822513.png" alt="Hatsune Miku" /></a>
+    <a href="https://discord.gg/A7ARJgK9zH"><img src="https://media.discordapp.net/attachments/869258357926678618/889424804594200616/Adobe_Post_20210920_1346080.4506088548034979.png" alt="Hatsune Miku" /></a>
   </p>
-<h1 align="center">
-<a href="https://discord.com/oauth2/authorize?client_id=847501592080941066&scope=bot&permissions=5871889623">
-Hatsune Miku
-</h1>
+<p>
+    <a href="https://dsc.gg/hatsunemiku"><img src="https://media.discordapp.net/attachments/869258357926678618/889426021911244860/Adobe_Post_20210920_1351230.6291456054668433.png" alt="Hatsune Miku" /></a>
+  </p>
 <br />
     
-
-[![Discord Server](https://img.shields.io/discord/864113097476014110?label=Support%20&logo=discord&style=plastic)](https://discord.gg/A7ARJgK9zH)
-[![Aoi.js Version](https://img.shields.io/npm/v/aoi.js.svg?maxAge=3600)](https://www.npmjs.com/package/aoi.js)
 
 
 ## About 
@@ -37,3 +33,7 @@ Miku is designed to be fast and easy to use.
 It's me I'm Slayer🍷#0798 (505942662365577216), and I've been moderating Discord servers from 1year. That's all i hate talking about myself.
 
 Peace ✌️ Thank you!
+
+
+[![Discord Server](https://img.shields.io/discord/864113097476014110?label=Support%20&logo=discord&style=plastic)](https://discord.gg/A7ARJgK9zH)
+[![Aoi.js Version](https://img.shields.io/npm/v/aoi.js.svg?maxAge=3600)](https://www.npmjs.com/package/aoi.js)
